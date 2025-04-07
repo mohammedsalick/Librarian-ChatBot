@@ -1,6 +1,3 @@
-Sure! Here's the complete content formatted fully as a `README.md` file for your **Librarian Chatbot** project, suitable for direct use in a GitHub repository:
-
-```markdown
 # 📚 LIBRARIAN: Your Virtual Library Assistant
 
 **Librarian** is a Flask-based chatbot designed to assist users with **book-related queries**. Whether you're looking for information on a specific book, its author, genre, availability, or seeking similar reads — Librarian has got you covered. The chatbot integrates with **Supabase** for user authentication and conversation storage, and uses the **Gemini API** for generating natural, helpful, and polite responses.
